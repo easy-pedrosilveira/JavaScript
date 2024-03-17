@@ -8,12 +8,8 @@ Na pasta `courses`, você encontrará cursos relacionados a JavaScript. Cada cur
 
 ## Projetos
 
-Na pasta `projects`, você encontrará projetos práticos relacionados a JavaScript, React e Next.js.
+Na pasta `projects`, você encontrará projetos práticos relacionados a JavaScript
 
-### JavaScript
-
-### React
-
-### Next.js
-
+### Projeto 01 
+ descrição
 
