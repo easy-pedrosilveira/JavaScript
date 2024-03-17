@@ -1,0 +1,80 @@
+body {
+    background: #17162E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+}
+
+.introduction {
+    width: 700px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+}
+
+h1 {
+    font-family: "Kumbh Sans", sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 45px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+}
+
+.search {
+    width: 634px;
+    height: 74px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 8px;
+    opacity: 0.2;
+    background: #FFFFFF;
+}
+
+.search input {
+    width: 85%;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8A8A8A;
+}
+
+.movies {
+    width: 1224px;
+    height: auto;
+}
+
+.card {
+    width: 100%;
+    height: 201px;
+    border-radius: 8px;
+    display: flex;
+    gap: 20px;
+    background: #1D1C3B;
+}
+
+.poster,
+.info,
+.description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poster {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.posterImg{
+}
